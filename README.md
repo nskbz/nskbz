@@ -1,16 +1,21 @@
-### Hi there 👋
+<!-- Your title -->
+## Hi, I'm 南山扛把子(nskbz).👋
 
-<!--
-**nskbz/nskbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Talking about you -->
+### About
 
-Here are some ideas to get you started:
+<!-- Any image aligned to the right. Beware the width -->
+<!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎯 I’m ready to take part in the postgraduate entrance exams;
+- 🌱 I graduated from a Bachelor's degree in Software Engineering at CQUPT; 
+- 😭 I’m interested in a girl who is expected to be very indifferent to me；
+- 🔭 I live at the foot of Nanshan Mountain and study on it,i love this land；
+- 🤔 I’m intersted in cycling,programing,designing,cloud;
+- 💬 Ask me about anything, I am happy to help;
+
+<p>
+  <a href="https://github.com/onimur/handle-path-oz">
+    <img alt="nskbz's github stats" src="https://github-readme-stats.vercel.app/api?username=nskbz&show_icons=true&hide_border=true" />
+  </a>
+</p>
