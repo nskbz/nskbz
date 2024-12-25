@@ -9,7 +9,6 @@
 
 - 🎯 I’m ready to take part in the postgraduate entrance exams;
 - 🌱 I graduated from a Bachelor's degree in Software Engineering at CQUPT; 
-- 😭 I’m interested in a girl who is expected to be very indifferent to me；
 - 🔭 I live at the foot of Nanshan Mountain and study on it,i love this land；
 - 🤔 I’m intersted in cycling,programing,designing,cloud;
 - 💬 Ask me about anything, I am happy to help;
